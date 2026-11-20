@@ -1,0 +1,7 @@
+# Nonprofit & Charity Website
+
+> GreenRoots restores forests with the communities who live beside them, creating jobs, clean water and wildlife habitat. See our impact and plant trees today.
+
+## Pages
+
+- [Home](index.html): GreenRoots restores forests with the communities who live beside them, creating jobs, clean water and wildlife habitat. See our impact and plant trees today.
