@@ -3335,3 +3335,7 @@ body {
           display: none;
         }
       }
+
+      .st-brand-icon {
+  background: transparent !important;
+}
