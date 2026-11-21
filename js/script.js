@@ -807,3 +807,5 @@
         // Split text only after the fonts load, so lines break where they finally will
         if (TEXT && document.fonts && document.fonts.ready) document.fonts.ready.then(run); else run();
       })();
+
+      document.getElementById('current-year').textContent = new Date().getFullYear();
